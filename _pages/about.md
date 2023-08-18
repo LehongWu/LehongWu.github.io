@@ -24,7 +24,7 @@ Publication
 ======
 Upcoming...
 
-Contact me
-------
+### Contact me
+
 [Email](mailto:aladonwlh@stu.pku.edu.cn): aladonwlh@stu.pku.edu.cn / [Wechat](../images/my_wechat.png) / [Github](https://github.com/LehongWu/)
 
