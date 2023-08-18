@@ -26,5 +26,5 @@ In Preparation.
 
 Contact me
 ------
-[Email](mailto:aladonwlh@stu.pku.edu.cn) / [Wechat](../image/my_wechat.png) / [Github](https://github.com/LehongWu/)
+[Email](mailto:aladonwlh@stu.pku.edu.cn) / [Wechat](../images/my_wechat.png) / [Github](https://github.com/LehongWu/)
 
