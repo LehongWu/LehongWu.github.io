@@ -22,7 +22,7 @@ Experience
 
 Publication
 ======
-In Preparation.
+Upcoming...
 
 Contact me
 ------
