@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Personal profile"
 title_separator          : "-"
 name                     : &name "Lehong Wu"
 description              : &description "personal description"
