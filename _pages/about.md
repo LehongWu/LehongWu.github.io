@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -25,6 +25,6 @@ Publication
 In Preparation.
 
 Contact me
----
+
 Email / Wechat / [Github](https://github.com/LehongWu/)
 
