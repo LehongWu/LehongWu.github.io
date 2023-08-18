@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lehong Wu"
 description              : &description "A first-year undergraduate majoring in CS at PKU"
