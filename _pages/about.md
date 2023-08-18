@@ -14,17 +14,17 @@ Currently my research focus is on Computer Vision, especially Action Recognition
 
 Education
 ======
-2022.09 - now, School of Electronic Engineering and Computer Science, Peking University. Major: Information and Computing Science.
+2022.09 - now, School of Electronic Engineering and Computer Science, Peking University. Major : Information and Computing Science.
 
 Experience
 ======
-2023.04 - now, Spatial and Temporal Restoration, Understanding and Compression Team(STRUCT). Advisor: Prof. Jiaying Liu.
+2023.04 - now, Spatial and Temporal Restoration, Understanding and Compression Team(STRUCT). Advisor : Prof. Jiaying Liu.
 
 Publication
 ======
 Upcoming...
 
-### Contact me
-
-[Email](mailto:aladonwlh@stu.pku.edu.cn): aladonwlh@stu.pku.edu.cn / [Wechat](../images/my_wechat.png) / [Github](https://github.com/LehongWu/)
+Contact me
+======
+[Email](mailto:aladonwlh@stu.pku.edu.cn) : aladonwlh@stu.pku.edu.cn / [Wechat](../images/my_wechat.png) / [Github](https://github.com/LehongWu/)
 
