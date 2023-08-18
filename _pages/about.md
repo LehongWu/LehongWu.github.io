@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lehong Wu"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,10 +21,10 @@ Experience
 2023.04 - now, Spatial and Temporal Restoration, Understanding and Compression Team(STRUCT). Advisor: Prof. Jiaying Liu.
 
 Publication
-------
+======
 In Preparation.
 
 Contact me
-------
+---
 Email / Wechat / [Github](https://github.com/LehongWu/)
 
