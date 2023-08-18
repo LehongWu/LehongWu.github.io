@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal profile"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Lehong Wu"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lehong Wu"
   avatar           : "profile.png"
-  bio              : "Welcome to my profile"
+  bio              : "Welcome to my homepage"
   location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
