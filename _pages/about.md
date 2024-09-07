@@ -22,9 +22,9 @@ Education
 2023.04 - 2024.03, Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT). Advisor : Prof. Jiaying Liu.
 2024.05 - now, PKU-Agibot Lab. Advisor : Prof. Jiaying Liu. -->
 
-Research
+News
 ======
-Upcoming...
+\[2024/07/01\] Two papers gets accepted to ECCV 2024.
 
 Contact me
 ======
