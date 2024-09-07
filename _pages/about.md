@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Lehong Wu, a first-year undergraduate student from the Zhi class, School of Electronic Engineering and Computer Science([EECS](https://eecs.pku.edu.cn/)), Peking University. I'm working as an intern student at the [STRUCT](http://www.icst.pku.edu.cn/struct/) group of Wangxuan Institute of Computer Technology([WICT](https://www.icst.pku.edu.cn/)), advised by Professor [Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
+Hi, I'm Lehong Wu, a third-year undergraduate from the Zhi class at Peking University. 
+My current research focuses on embodied AI, specifically tactile-based robotic manipulation.
 
-Currently my research focus is on Computer Vision, especially Action Recognition and Understanding, but I'm also willing to explore more areas of Artificial Intelligence in the future.
+I'm conducting research at PKU-Agibot Lab, advised by Prof. [Hao Dong](https://zsdonghao.github.io). Before that, I am honored to work at [STRUCT](http://www.icst.pku.edu.cn/struct/), advised by Prof. [Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
 
 Education
 ======
 2022.09 - now, School of Electronic Engineering and Computer Science, Peking University. Major : Information and Computing Science.
 
-Experience
+<!-- Experience
 ======
-2023.04 - now, Spatial and Temporal Restoration, Understanding and Compression Team(STRUCT). Advisor : Prof. Jiaying Liu.
+2023.04 - 2024.03, Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT). Advisor : Prof. Jiaying Liu.
+2024.05 - now, PKU-Agibot Lab. Advisor : Prof. Jiaying Liu. -->
 
-Publication
+Research
 ======
 Upcoming...
 
