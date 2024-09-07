@@ -13,9 +13,9 @@ My current research focuses on embodied AI, specifically tactile-based robotic m
 
 I'm conducting research at PKU-Agibot Lab, advised by Prof. [Hao Dong](https://zsdonghao.github.io). Before that, I am honored to work at [STRUCT](http://www.icst.pku.edu.cn/struct/), advised by Prof. [Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
 
-Education
+<!-- Education
 ======
-2022.09 - now, School of Electronic Engineering and Computer Science, Peking University. Major : Information and Computing Science.
+<small>2022.09 - now, School of EECS, Peking University. Major: Information and Computing Science.</small> -->
 
 <!-- Experience
 ======
