@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
-I am a third-year undergraduate from the [Zhi-Class](https://zhi-class.ai/) at [Peking University](https://english.pku.edu.cn/). 
+I am a third-year undergraduate from the [Zhi-Class](https://zhi-class.ai/) at [EECS](https://eecs.pku.edu.cn/xxkxjsxy/Home/HOME.htm), [Peking University](https://english.pku.edu.cn/). 
 My current research focuses on robot learning, specifically **real-world reinforcement learning** and **robotic manipulation**.
 
 I'm currently conducting research at [PKU-Agibot Lab](https://cfcs.pku.edu.cn/english/research/researchlabs/237027.htm), 
