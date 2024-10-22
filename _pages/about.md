@@ -6,7 +6,7 @@ subtitle: Peking University #<a href='#'>Affiliations</a>. Address. Contacts. Mo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_photo1.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     # <p>555 your office number</p>
@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
-I am a third-year undergraduate from the [Zhi class](https://zhi-class.ai/) at [Peking University](https://english.pku.edu.cn/). 
-My current research focuses on robot learning, specifically real-world reinforcement learning and robotic manipulation.
+I am a third-year undergraduate from the [Zhi-Class](https://zhi-class.ai/) at [Peking University](https://english.pku.edu.cn/). 
+My current research focuses on robot learning, specifically **real-world reinforcement learning** and **robotic manipulation**.
 
 I'm currently conducting research at [PKU-Agibot Lab](https://cfcs.pku.edu.cn/english/research/researchlabs/237027.htm), 
 advised by Prof. [Hao Dong](https://zsdonghao.github.io). 
