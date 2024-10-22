@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 I am a third-year undergraduate from the [Zhi-Class](https://zhi-class.ai/) at [EECS](https://eecs.pku.edu.cn/xxkxjsxy/Home/HOME.htm), [Peking University](https://english.pku.edu.cn/). 
-My current research focuses on robot learning, specifically **real-world reinforcement learning** and **robotic manipulation**.
+My research interest lies in **robotics and computer vision**, with a focus on **real-world robot learning and manipulation** currently. I aim to build autonomous and scalable robot learning systems in the real world.
 
 I'm currently conducting research at [PKU-Agibot Lab](https://cfcs.pku.edu.cn/english/research/researchlabs/237027.htm), 
 advised by Prof. [Hao Dong](https://zsdonghao.github.io). 
