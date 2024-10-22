@@ -21,12 +21,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 I am a third-year undergraduate from the [Zhi class](https://zhi-class.ai/) at [Peking University](https://english.pku.edu.cn/). 
 My current research focuses on robot learning, specifically real-world reinforcement learning and robotic manipulation.
 
-I'm currently conducting research at PKU-Agibot Lab, advised by Prof. [Hao Dong](https://zsdonghao.github.io). Before that, I am honored to work at [STRUCT](http://www.icst.pku.edu.cn/struct/), advised by Prof. [Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
+I'm currently conducting research at [PKU-Agibot Lab](https://cfcs.pku.edu.cn/english/research/researchlabs/237027.htm), 
+advised by Prof. [Hao Dong](https://zsdonghao.github.io). 
+Before that, I am honored to work at [STRUCT](http://www.icst.pku.edu.cn/struct/), 
+advised by Prof. [Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
 
 Contact me:
 [Email](aladonwlh@stu.pku.edu.cn) / 
 [Github](https://github.com/LehongWu) /
-[WeChat](assets/img/my_wechat.png)
+[WeChat](../assets/img/my_wechat.png)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
