@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Peking University #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: EECS, Peking University #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
