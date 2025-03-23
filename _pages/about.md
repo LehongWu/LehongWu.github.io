@@ -24,7 +24,7 @@ advised by Prof. [Hao Dong](https://zsdonghao.github.io).
 Before that, I am honored to work at [STRUCT](http://www.icst.pku.edu.cn/struct/), 
 advised by Prof. [Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
 
-My research interest lies in **robotics and computer vision**, with a focus on **real-world robot learning and manipulation** currently. I aim to build autonomous and scalable robot learning systems in the real world.
+My research interest lies in **embodied AI**, with a focus on **real-world reinforcement learning and manipulation** currently. I aim to build autonomous and scalable robot learning systems in the real world.
 
 Contact me:
 [Email](aladonwlh@stu.pku.edu.cn) / 
